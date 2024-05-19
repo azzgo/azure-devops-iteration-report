@@ -6,7 +6,7 @@
 
 效果如下
 
-![image](./images/azure-devops-iteration-report.png)
+![](./docs/iteration-report.png)
 
 
 ## 功能介绍
